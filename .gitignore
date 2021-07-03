@@ -3,7 +3,6 @@
 .DS_Store
 src/.temp
 node_modules
-content/posts/a-post-with-a-cover.md
 dist
 .env
 .env.*

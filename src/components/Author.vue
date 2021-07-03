@@ -30,14 +30,14 @@ query {
 </static-query>
 
 <script>
-import { icons } from "@/assets/ionicons";
+// import { icons } from "@/assets/ionicons";
 export default {
 	props: ['showTitle'],
-	data(){
-		return {
-			ionicons: icons
-		};
-	}
+	// data(){
+	// 	return {
+	// 		ionicons: icons
+	// 	};
+	// }
 }
 </script>
 
