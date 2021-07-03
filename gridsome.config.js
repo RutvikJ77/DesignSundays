@@ -28,6 +28,13 @@ module.exports = {
           }
         }
       }
+    },
+    {
+      use: 'gridsome-plugin-netlify-cms-paths',
+      options: {
+        contentTypes: ['Post'],
+        coverField: 'cover_image'
+      }
     }
   ],
 
