@@ -13,8 +13,7 @@
     "@gridsome/transformer-remark": "^0.6.4",
     "gridsome": "^0.7.23",
     "gridsome-plugin-netlify-cms": "^1.0.9",
-    "gridsome-plugin-netlify-cms-paths": "^0.3.1",
-    "netlify-cms-app": "^2.15.20"
+    "gridsome-plugin-netlify-cms-paths": "^0.3.1"
   },
   "devDependencies": {
     "node-sass": "^5.0.0",
